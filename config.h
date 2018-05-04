@@ -9,4 +9,4 @@ const char*     WIFI_PASS     = "XXXXXX"; // Your WiFi password
 
 const uint8_t   TIMEZONE_OFFSET = 10; // The timezone the sensor is located in (eg. 10 for GMT)
 
-const uint16_t  DEBOUNCE_TIME   = 200; // How long before the next gate reading can take place (ms)
+const uint16_t  DEBOUNCE_TIME   = 200; // How long before the next reading can take place (ms)
